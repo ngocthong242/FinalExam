@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="home_fragment">home fragment</string>
+    <string name="favorite_fragment">favorite fragment</string>
+    <string name="my_page_fragment">my page fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
